@@ -40,9 +40,9 @@ Fork the [base JS fiddle][base-js-fiddle] and use Hooks to implement an
 
 ### Try a Tutorial:
 Write a review for one of the following tutorials:
-- [Getting Started with React Hooks]: https://scotch.io/tutorials/getting-started-with-react-hooks
-- [Building a CRUD App in React with Hooks]: https://www.taniarascia.com/crud-app-in-react-with-hooks/
-- [Hooks in React Spring, A Tutorial]: https://medium.com/@drcmda/hooks-in-react-spring-a-tutorial-c6c436ad7ee4
+- [Getting Started with React Hooks](https://scotch.io/tutorials/getting-started-with-react-hooks)
+- [Building a CRUD App in React with Hooks](https://www.taniarascia.com/crud-app-in-react-with-hooks/)
+- [Hooks in React Spring, A Tutorial](https://medium.com/@drcmda/hooks-in-react-spring-a-tutorial-c6c436ad7ee4)
 
 ### Take Some Notes:
 Look at the list of "Sub Topics" and share any notes or ideas related to it!
